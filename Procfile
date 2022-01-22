@@ -1,1 +1,1 @@
-web: node cors-server.js
+web: node server.js
